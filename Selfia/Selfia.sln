@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selfia", "Selfia\Selfia.csproj", "{FA0E663D-C935-4F48-AF14-3B8D132C4149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0E663D-C935-4F48-AF14-3B8D132C4149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0E663D-C935-4F48-AF14-3B8D132C4149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0E663D-C935-4F48-AF14-3B8D132C4149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0E663D-C935-4F48-AF14-3B8D132C4149}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B80642C-CF23-4147-9FC6-5AEF8219C7F2}
+	EndGlobalSection
+EndGlobal
