@@ -178,7 +178,7 @@ namespace Selfia
                 }
             }
             
-            var b = result.Aggregate(@"", (a, i) =>
+            var b = result.Aggregate(result.Count.ToString() + '\n', (a, i) =>
             {
                 if (i.Orientation == Orientation.Horizontal)
                 {
